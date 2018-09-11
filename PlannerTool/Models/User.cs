@@ -11,7 +11,7 @@ namespace PlannerTool.Models
     {
         public int Id { get; set; }
         [Required]
-        //[Index(IsUnique = true)]
+        [Index(IsUnique = true)]
         [StringLength(30)]
         public string UserName { get; set; }
         [Required]
