@@ -7,13 +7,13 @@ namespace PlannerTool.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.2.0-61023")]
-    public sealed partial class addedGoalObjectiveandFeatmodels : IMigrationMetadata
+    public sealed partial class changeddbconnectionstring : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(addedGoalObjectiveandFeatmodels));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(changeddbconnectionstring));
         
         string IMigrationMetadata.Id
         {
-            get { return "201809232137291_added Goal, Objective, and Feat models"; }
+            get { return "201809240151250_changed dbconnection string"; }
         }
         
         string IMigrationMetadata.Source

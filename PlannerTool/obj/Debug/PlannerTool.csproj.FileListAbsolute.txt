@@ -102,5 +102,5 @@ C:\repos\PlannerTool\PlannerTool\obj\Debug\PlannerTool.pdb
 C:\repos\PlannerTool\PlannerTool\bin\System.Web.Cors.dll
 C:\repos\PlannerTool\PlannerTool\bin\System.Web.Http.Cors.dll
 C:\repos\PlannerTool\PlannerTool\bin\System.Web.Http.Cors.xml
-C:\repos\PlannerTool\PlannerTool\obj\Debug\PlannerTool.Migrations.addedGoalObjectiveandFeatmodels.resources
+C:\repos\PlannerTool\PlannerTool\obj\Debug\PlannerTool.Migrations.changeddbconnectionstring.resources
 C:\repos\PlannerTool\PlannerTool\obj\Debug\PlannerTool.csproj.GenerateResource.cache
